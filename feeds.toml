@@ -1,0 +1,12 @@
+[funtenna_latest]
+title = "펀샵 ─ 펀테나 ─ 최신"
+url = "https://www.funshop.co.kr/Story/FuntennaList"
+entrySelector = "div.story_list ul li"
+titleSelector = "dl dt"
+linkSelector = "a"
+contentSelector = "span.data span:nth-child(1)"
+dateSelector = "p.info2 span.data span:nth-child(2)"
+dateFormat = "yyyy-MM-dd"
+imageSelector = "a img.item.lazy"
+waitForSelector = "div.story_list ul li"
+onFail = "stale"
