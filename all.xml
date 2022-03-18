@@ -4,9 +4,145 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 07:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMR5, 저소음 AMD 4500U 미니 PC (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19208#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19208#page=1</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19208/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2만루멘의 강력한 밝기, Nitecore TM20K (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19207#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19207#page=1</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생활/주방]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19207/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FlashForge, 고속 충전 20,000mAh 배터리 팩 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19206#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19206#page=1</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19206/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polk Audio의 사운드바, MagniFi Mini AX (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19204#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19204#page=1</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[취미/기타]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19204/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키크론, K8 Pro 무선 기계식 키보드 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19203#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19203#page=1</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19203/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스노우피크, Home & Camp 랜턴 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19202#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19202#page=1</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아웃도어/스포츠]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19202/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가젯 청소패드, WaterBear (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19201#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19201#page=1</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[취미/기타]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19201/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[펀샵출시예정] 꾸준한 운동을 위해, 하이퍼볼트 2 프로 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19200#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19200#page=1</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아웃도어/스포츠]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19200/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE HULTÉN의 NES-SY37 신디사이저 프로젝트 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19199#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19199#page=1</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[트렌드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloudnola, 플립 시계 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19198#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19198#page=1</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생활/주방]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8BitDo, 최초의 Xbox 스타일 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19197#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19197#page=1</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[취미/기타]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고라파덕 물뿌리개 찻주전자 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19196#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19196#page=1</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생활/주방]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카라비너 블루투스 스피커, Lexon Mino T (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19195#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19195#page=1</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[취미/기타]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로 버스의 부활, 폭스바겐 ID. Buzz (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19194#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19194#page=1</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자동차/모터사이클]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PopSockets, 배터리 내장 스마트폰 그립 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19193#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19193#page=1</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소넷, 에코 듀얼 NVMe 썬더볼트 독 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19192#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19192#page=1</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple, Mac Studio 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19191#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19191#page=1</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OCTO Titanium, 18 in 1 멀티툴 카라비너 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19190#page=1</link>
@@ -269,142 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19158#page=1</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[패션/시계/가방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜레의 빈티지 스니커즈 캔들 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19157#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19157#page=1</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[생활/주방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년만에 복귀, 돌아온 포켓몬 빵 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19156#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19156#page=1</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[생활/주방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOPHIE, 아이폰용 휴대용 마그네틱 스탠드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19153#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19153#page=1</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착용후에도 편한 움직임, 언차티드 파크 팩 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19152#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19152#page=1</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[패션/시계/가방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 새로운 워크맨 DAP 2종 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19151#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19151#page=1</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[취미/기타]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사테치, 2 in 1 헤드폰 스탠드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19150#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19150#page=1</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 듀얼 4K USB-C 독 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19149#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19149#page=1</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TASCAM MASTER 424 스튜디오 카세트 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19148#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19148#page=1</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[취미/기타]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마란츠, 모델 40n 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19147#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19147#page=1</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[취미/기타]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIA, 지포스 RTX 키보드 키캡공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19146#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19146#page=1</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트 허브 선반, Bluelounge SocketStation (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19145#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19145#page=1</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[생활/주방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오디오 테크니카의 무선 이어버드, ATH-CKS50TW (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19144#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19144#page=1</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[취미/기타]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카시오, 친환경 시계 PRO TREK PRW-61 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19143#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19143#page=1</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[패션/시계/가방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 호라이즌 포비든 웨스트 툴넥 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19142#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19142#page=1</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[취미/기타]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러풀, 게이밍 노트북 X15 XS 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19141#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19141#page=1</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터 30주년 기념, Sneaker X PC 케이스 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19140#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19140#page=1</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Native Union x Paul Smith Apple 케이스 컬렉션 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19139#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19139#page=1</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC/모바일]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
