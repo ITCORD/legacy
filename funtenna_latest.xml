@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 13:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 20:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이케아, 스피커 겸 램프 Vappeby 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19226#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19226#</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 데스스타 참호 돌파 디오라마 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19225#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19225#</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Sonic the Hedgehog 2" Xbox 컨트롤러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19224#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19224#</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르쿠르제, 빵 오븐 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19223#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19219/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도 스위치, 시스템 업데이트 14.0.0 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19218#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19218#</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19218/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Print X, 휴대성과 확장성을 가진 프린터]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19217#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19217#</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19217/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OB-4, Off White와의 협업제품 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19216#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19216#</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19216/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
