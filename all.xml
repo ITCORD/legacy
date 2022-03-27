@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 13:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 20:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴대성의 극대화, DAYFAER Active Sling (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19227#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19227#</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이케아, 스피커 겸 램프 Vappeby 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19226#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19222/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불가리, 세계에서 가장 얇은 기계식 시계 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19221#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19221#</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19221/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리복, 파워레인저 빌런 콜렉션 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19220#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19220#</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19220/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M-Audio, BX3BT, BX4BT 모니터 스피커 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19219#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19219#</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19219/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
