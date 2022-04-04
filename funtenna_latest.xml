@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 13:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19249#</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19249/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[prunz, 배터리 구동 원예 가위]]></title>
@@ -21,15 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19248#</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이슨 프리니, XXRay Plus Brown 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19247#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19247#</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19248/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이슨 프리니, XXRay Plus Brown 출시]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19242/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, 스트리밍 용도의 오디오 믹서 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19241#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19241#</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19241/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
