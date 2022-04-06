@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 13:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 20:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반무프, 차세대 S5, A5 자전거 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19259#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19259#</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴대하는 감성, spinnerette 턴테이블]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19258#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19258#</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fortitude, 애플워치용 나일론 밴드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19257#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19257#</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7년만의 새로운 건담, 수성의 마녀]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19256#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19252/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The EZ Treat, 올인원 애견 간식 캐리어]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19251#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19251#</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19251/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NuPhy Air60 키보드 프리오더 시작]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19250#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19250#</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19250/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미수, 네오 마그네틱 티타늄 만년필 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19249#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19249#</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19249/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
