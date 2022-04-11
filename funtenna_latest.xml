@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 13:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 20:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스탠드가 있는 배터리, UNIQ Hoveo]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19270#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19270#</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19270/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moment, Strap Anywhere 마운트]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19269#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19269#</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젠하이저, 모멘텀 트루 와이어리스 3 유출]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19268#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19268#</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19268/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 명동, 4월9일 개장]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19267#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19263/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, WWDC 2022 일정 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19262#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19262#</guid>
-            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19262/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Master & Dynamic, MW01 무선 송신기]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19261#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19261#</guid>
-            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19261/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 X 션 워더스푼, Equipment Support 93]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19260#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19260#</guid>
-            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19260/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
