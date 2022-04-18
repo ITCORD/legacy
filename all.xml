@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 20:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아담오디오, 새로운 A 시리즈 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19284#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19284#</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19277/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세그웨이 엔진 스피커 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19276#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19276#</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19276/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초소형 외장 SSD, Elite SE880 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19275#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19275#</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19275/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편한 휴대성의 휴대폰 스탠드, GODONUT MINI (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19274#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19274#</guid>
-            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19274/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
