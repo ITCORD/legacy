@@ -4,16 +4,48 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 20:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로지텍, LIFT 버티컬 마우스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19295#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19295#</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19295/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메르세데스 EQS SUV EV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19294#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19294#</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19294/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nomad, Base One Max 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19293#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19293#</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘가토의 최신 캡처 카드, HD60 X]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19292#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19292#</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[접이식 전기자전거, 혼바이크]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19291/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤을 낮처럼, Duovox Mate Pro]]></title>
@@ -21,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19290/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB]]></title>
@@ -29,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19289/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550]]></title>
@@ -38,38 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19288/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모듈러 백팩 시스템, MODJL]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19287#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19287#</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19287/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIKTAALIK Mic+, 무선 하이테크 마이크]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19286#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19286#</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19286/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, 가와사키와의 협업 스니커즈 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19285#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19285#</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19285/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아담오디오, 새로운 A 시리즈 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19284#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19284#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
