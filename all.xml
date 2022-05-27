@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 20:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19381/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리복 X Eames Office 클랙식 레더 콜렉션 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <title><![CDATA[리복 X Eames Office 클래식 레더 콜렉션 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19380#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19380#</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19379#</guid>
             <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19379/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
