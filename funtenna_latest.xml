@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 13:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 20:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[펀샵입고예정] 로지텍, 신형 마스터시리즈 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19386#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19386#</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19386/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타이맥스, 기묘한 이야기 협업 시계 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19404#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19387/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵입고예정] 로지텍, 신형 마스터시리즈 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19386#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19386#</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19386/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
