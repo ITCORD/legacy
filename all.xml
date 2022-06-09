@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 20:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19415#</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19415/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOHI, Magcube 120W 데스크탑 충전기 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19414#</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19414/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LED 프리스비, miBee (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19413#</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19413/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kross Studio, 보바펫 트루비용 시계 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
