@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 20:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이컨 향이 나는 향수, WRIGHT N° 100]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19458#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19458#</guid>
+            <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계에서 가장 가벼운 마우스? M2K]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19457#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19457#</guid>
+            <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All Lock, 마그네틱 폰 마운트 시스템]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19456#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19456#</guid>
+            <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19456/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[X-0 Knight, 초고휘도 미니 EDC 손전등]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19454#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19451/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAUX Acoustic Felt, 공간의 분리 그리고 음향]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19449#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19449#</guid>
-            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19449/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국형 발사체 누리호, 2차발사에서 성공]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19448#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19448#</guid>
-            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19448/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일반자전거를 전기자전거로, DiskDrive]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19447#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19447#</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19447/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
