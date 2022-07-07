@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 20:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19488#</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19488/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ULlife, Me-300S 골전도 헤드폰 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19487#</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19487/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100%, 2022 피터 사간 LE 컬렉션 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19486#</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19486/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국닌텐도, 닌텐도 스위치 OLED 스플래툰3 에디션 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19485#</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19485/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르쉐 디자인, 무선 헤드폰 PDH80 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19483#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19483/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴스타, 폴스타 5 일렉트릭 GT 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19482#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19482/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Twelve South, HiRise 3 무선 충전 스탠드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19481#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19481/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
