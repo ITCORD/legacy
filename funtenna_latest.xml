@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 13:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 20:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AOC, 4K 144Hz 모니터 U28G2XU2 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19510#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19510/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호리, 스플래툰 3 관련 액세서리 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19509#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19509#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19509/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, GDDR6 D램 개발]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19508#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19508/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19507#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19504#</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19504/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종이접기에서 영감을 받은 지갑, Smoll Envelope Wallet]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19503/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실버스톤, 5포트 SATA Gen3 스토리지 확장카드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19502#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19502#</guid>
-            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19502/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠프파이어 오디오 X 아스텔앤컨, PATHFINDER]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19501#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19501#</guid>
-            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-FOOD가 동물의 숲에 등장?]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19500#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19500#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
