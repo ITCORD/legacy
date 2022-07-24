@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 13:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 20:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 아타리 2600 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19535#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19535#</guid>
+            <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OAK & IRON ONE Pro, 휴대용 ​​타이어 공기 주입기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19534#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19534#</guid>
+            <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19526/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, '나는 그루트다' 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19525#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19525#</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19525/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서든 픽셀아트를 그린다, 픽셀 아트보드]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19523#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19523#</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
