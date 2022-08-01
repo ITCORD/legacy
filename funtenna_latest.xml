@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 13:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 20:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼 액티브 노이즈 캔슬링, Serena 무선 이어버드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19556#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19556#</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zenchey, 접이식 노트북 스탠드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19555#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19555#</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dango, Carabiner & Shackle 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19554#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19554#</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mercedes Benz X Master & Dynamic 컬렉션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19553#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19549#</guid>
             <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19549/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESQ Retro, 고전 붐박스 스타일의 블루투스 스피커]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19548#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19548#</guid>
-            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19548/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ouTask, 텔레스코픽 랜턴]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19547#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19547#</guid>
-            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19547/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유유백서, 넷플릭스에서 실사화 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19546#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19546#</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19546/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
