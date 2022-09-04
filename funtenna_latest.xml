@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 13:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 20:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ultimate Ears, Wonderboom 3 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19639#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19639#</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19639/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lumos Firefly, 자전거 라이트 시스템]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19638#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19638#</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19638/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG의 밴더블 TV, OLED TV Flex]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19637#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19637#</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19637/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사테치, M1 아이패드 용 USB-C 허브 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19636#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19632/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태그호이어 커넥티드 X 포르쉐 에디션]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19631#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19631#</guid>
-            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19631/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magic Dock, 스마트 충전 허브]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19630#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19630#</guid>
-            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19630/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰을 케이스 채로 연결하는 게임 컨트롤러, Gamevice Flex]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19629#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19629#</guid>
-            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19629/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
