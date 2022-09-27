@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 13:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 20:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아스텔앤컨, 차세대 플래그쉽 DAP SP3000 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19690#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19690#</guid>
+            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소형 전기 캠핑카, Potential Motors Adventure 1]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19689#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19689#</guid>
+            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Civilist x Nike, 에어포스 원 로우 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19688#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19688#</guid>
+            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(펀샵 판매예정) 초소형 장착식 EDC 나이프, EDCEST]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19687#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19683/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AirBox Go, 3 in 1 맥세이프 배터리 팩]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19682#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19682#</guid>
-            <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19682/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 콤팩트 PC 사운드바 Leviathan V2 X 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19681#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19681#</guid>
-            <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19681/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, PS5 그레이 카모 컬렉션 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19680#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19680#</guid>
-            <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19680/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
