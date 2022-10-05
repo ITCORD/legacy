@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 14:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 20:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바워스앤윌킨스, PX8 헤드폰 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19707#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19707#</guid>
+            <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데드풀 3에 휴 잭맨 등장 확정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19706#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19706#</guid>
+            <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonos와 완벽호환, Victrola Stream Carbon 턴테이블 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19705#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19705#</guid>
+            <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스컬캔디, PLYR 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19704#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19700/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에드 시런과 포켓몬스터의 만남 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19699#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19699#</guid>
-            <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19699/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, 맥 전용 MX Mechanical Mini 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19698#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19698#</guid>
-            <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19698/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 음악을 위한 가구 컬렉션 OBEGRÄNSAD 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19697#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19697#</guid>
-            <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19697/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
