@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 13:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 20:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anker, Soundcore Liberty 4 무선 이어폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19710#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19710#</guid>
+            <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elgato, Wave DX 다이나믹 게이밍 마이크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19709#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19709#</guid>
+            <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[틴에이지 엔지니어링, PO-80 레코드 팩토리 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19708#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19708#</guid>
+            <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바워스앤윌킨스, PX8 헤드폰 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19707#</link>
@@ -44,30 +68,6 @@
             <link>https://www.funshop.co.kr/Story/FuntennaView/19703#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19703#</guid>
             <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴라로이드, 새로운 블루투스 스피커 라인업 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19702#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19702#</guid>
-            <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19702/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이카, Q2 "DAWN" 한정판 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19701#</guid>
-            <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19701/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG Phone 6 Batman Edition 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19700#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19700#</guid>
-            <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
