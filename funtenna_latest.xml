@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 13:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 20:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이저, ps5 공식 컨트롤러 Wolverine v2 pro 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19797#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19797#</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴라로이드 SX-70 50주년 기념 카메라 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19796#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19796#</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19796/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Danner, 더글라스 GTX 부츠]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19795#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19795#</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19795/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 갤럭시 Z플립4 메종 마르지엘라 에디션 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19794#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19792#</guid>
             <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19792/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, ROG Falchion Ace 키보드 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19790/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐터필러 X Nigel Cabourn ,유타 부츠]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19789#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19789#</guid>
-            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19789/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMSL, SU-9 PRO DAC 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19788#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19788#</guid>
-            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19788/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, Kaira Pro HyperSpeed ​​공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19787#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19787#</guid>
-            <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19787/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
