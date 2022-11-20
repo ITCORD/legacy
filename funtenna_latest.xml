@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 07:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 13:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19811#</guid>
             <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19811/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ATOM, 안드로이드 스마트폰용 게임 컨트롤러]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19808#</guid>
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SANDMARC 아이폰용 드라마 편광판 필터]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19805#</guid>
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19805/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
