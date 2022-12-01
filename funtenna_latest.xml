@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 13:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 20:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RODE, 헤드셋 NTH-100M 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19847#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19847#</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컬럼비아, 스타워즈 의류 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19846#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19846#</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hyperkin, XBOX 360 컨트롤러 복각 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19845#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19845#</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로모그래피 30주년 기념 카메라 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19844#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19843#</guid>
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19843/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지샥, 아웃도어 느낌의 GAE-2100WE-3A 출시]]></title>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19842#</guid>
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19842/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NOMAD, 아이폰 14 시리즈용 러기드케이스 출시]]></title>
@@ -45,30 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19840#</guid>
             <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19840/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8Bitdo, N30 무선충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19839#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19839#</guid>
-            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19839/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시게이트, 스타워즈 파이어쿠다 휴대용 스토리지 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19838#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19838#</guid>
-            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOMAD, 30W 투명 USB-C 충전기]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19837#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19837#</guid>
-            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
