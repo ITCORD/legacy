@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 13:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 20:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맞춤형 케이블 커스텀, AOHi Future Creative 파워케이블]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19907#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19907#</guid>
+            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cake X Polestar, 마카 폴스타 에디션 스쿠터 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19906#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19906#</guid>
+            <pubDate>Tue, 27 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미니쿠퍼 30주년 기념 컨버터블 Seaside Edition 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19905#</link>
@@ -29,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19903#</guid>
             <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19903/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Artifox x Twelve South Desk, 맞춤형 작업공간]]></title>
@@ -53,22 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19900#</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3륜 전기 자전거, RadTrike]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19899#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19899#</guid>
-            <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19899/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펠리컨 신형 마이크로 케이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19898#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19898#</guid>
-            <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
