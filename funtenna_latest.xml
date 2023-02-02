@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 13:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 20:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jabra, Evolve2 Buds 무선 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20005#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20005#</guid>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JBL, 플래그십 사운드바 Bar 1300 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20003#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20003#</guid>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몰입형 사운드 헤드 서포트, 프로젝트 캐롤]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20002#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20002#</guid>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키크론, Q1 Pro 유, 무선 키보드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20001#</link>
@@ -45,30 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19997#</guid>
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NixieX, 닉시튜브 탁상시계 스피커]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19996#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19996#</guid>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Proof의 Rover EDC Pant]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19995#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19995#</guid>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JBL, Spinner BT 턴테이블 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19994#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19994#</guid>
-            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
