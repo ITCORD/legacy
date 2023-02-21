@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 13:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 20:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ProtoArc, 모듈식 2 in 1 허브 마우스 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20051#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20051#</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20051/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q, 퀵릴리스 티타늄 키체인 카라비너 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20050#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20050#</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20050/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Superdock, 데스크탑 충전스테이션 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20049#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20049#</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20049/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RME, 디지페이스 AES 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20035#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20035#</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20035/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원목 알루미늄 맥세이프 거치대, MagSafe Halter (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -38,38 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20046/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기가바이트, AORUS Gen 5 10000 SSD 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20045#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20045#</guid>
-            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20045/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원플러스, 브랜드 최초의 기계식키보드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20044#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20044#</guid>
-            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20044/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기자전거로 변환, Swytch 바이크 킷 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20043#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20043#</guid>
-            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20043/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠하이저, HD 660S2 헤드폰 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20042#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20042#</guid>
-            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20042/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
