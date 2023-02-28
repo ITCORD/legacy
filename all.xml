@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 13:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 20:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20065#</guid>
             <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20065/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, 22TB, 44TB WD BOOK 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20064#</guid>
             <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20064/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Roccat, Magma Mini 60% 게이밍 키보드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
