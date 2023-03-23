@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 13:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 20:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anker, 737 MagGo 충전기 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20126#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20126#</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20126/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Edifier의 QD35 테이블탑 블루투스 스피커]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20125#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20125#</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20125/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롤스로이스, 블랙배지 레이스 한정판 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20124#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20124#</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20124/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Acer, 전기자전거 ebii 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20123#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20119/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키크론, Q11 Knob 유선 스플릿 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20118#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20118#</guid>
-            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20118/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Geo 지갑, 애플 나의찾기를 지원하는 맥세이프 지갑]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20117#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20117#</guid>
-            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20117/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SABRENT, USB - SATA 어댑터 케이블]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20116#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20116#</guid>
-            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20116/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
