@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 13:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 20:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOMAD, 맥세이프 충전기 스탠드원 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20129#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20129#</guid>
+            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20129/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jabra, 보급형 이어버드 Elite 4 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20128#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20128#</guid>
+            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20128/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작고 간편하게, Aura 패커블 백팩]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20127#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20127#</guid>
+            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20127/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anker, 737 MagGo 충전기 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20126#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20126#</guid>
             <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20126/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Edifier의 QD35 테이블탑 블루투스 스피커]]></title>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20125#</guid>
             <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20125/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤스로이스, 블랙배지 레이스 한정판 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20122/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠하이저, 프로파일 USB 카디오이드 콘덴서 마이크 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20121#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20121#</guid>
-            <pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤츠, 신형 GLC 쿠페 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20120#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20120#</guid>
-            <pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 방수 스피커 VAPPEBY 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20119#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20119#</guid>
-            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
