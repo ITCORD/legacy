@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 13:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 20:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스루 지향성 스피커, Focusound]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20166#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20166#</guid>
+            <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씨게이트, 스타워즈 라이트세이버 SSD]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20165#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20165#</guid>
+            <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 마이크 시스템, Rode Wireless ME]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20164#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20164#</guid>
+            <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구형 포르쉐를 전기차로, Electrogenic DIY 키트]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20163#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20162#</guid>
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20162/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물병+스마트폰 스탠드= 링고]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20159/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스, GV80 쿠페 콘셉트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20158#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20158#</guid>
-            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20158/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나사, 아르테미스 2호 승무원 발표]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20157#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20157#</guid>
-            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 휴대용 게이밍 콘솔 ALLY 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20156#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20156#</guid>
-            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20156/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
