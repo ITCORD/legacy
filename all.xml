@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 20:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 07:07:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20179#</guid>
             <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20179/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BMW, 738마력의 XM 라벨 레드 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20177#</guid>
             <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20177/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, Motion X600 스피커 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20176#</guid>
             <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20176/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UBCO, 2x2 스페셜 에디션 유틸리티 바이크 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20175#</guid>
             <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20175/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 썬더볼트 4 서피스 독 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20172#</guid>
             <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20172/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
