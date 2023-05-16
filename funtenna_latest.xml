@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 13:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 20:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반다이남코, 괴혼 최신작 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20257#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20257#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20257/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fairphone, 지속가능한 헤드폰 Fairbuds XL 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20256#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20256#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20256/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이카, ZM 모노크롬 에디션 시계 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20255#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20255#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20255/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드에 결합되는 미니 PC]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20254#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20250/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lexon의 무선배터리팩 Softpower Magbank]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20248#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20248#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20248/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸조, 새로운 2008 SUV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20247#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20247#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20247/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충전식 자전거 헤드라이트, 센터 라이트]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20246#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20246#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20246/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
