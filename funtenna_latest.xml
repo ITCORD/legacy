@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 20:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 07:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 키보드 속으로 들어간 컴퓨터]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20254#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20254#</guid>
+            <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20254/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아웃도어 라이터 아머, PyroVault 2.0]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20253#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20253#</guid>
             <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20253/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르쉐, 718 스파이더 RS 공개]]></title>
@@ -29,10 +37,10 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20251#</guid>
             <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20251/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[프리오더] K3 폴더블 터치 스크린 키보드]]></title>
+            <title><![CDATA[[해외펀딩] K3 폴더블 터치 스크린 키보드]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20250#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20250#</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20248#</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20248/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[푸조, 새로운 2008 SUV 공개]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20247#</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20247/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충전식 자전거 헤드라이트, 센터 라이트]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20246/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모듈식 7포트 120W GaN 충전기]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20245#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20245#</guid>
-            <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20245/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
