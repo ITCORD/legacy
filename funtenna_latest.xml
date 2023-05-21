@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 13:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 20:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐논, 파워샷 V10 카메라 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20270#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20270#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20270/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GPD WIN Max 2, 핸드헬드 게이밍 PC 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20269#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20269#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20269/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제네렉, 45주년 기념 8381A 스피커 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20268#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20268#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20268/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이거어때] 광촉매 필터가 탑재된 공기 청정기 Eteria]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20267#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20265#</guid>
             <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20265/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UFO 로보 그렌다이저 게임, 한국어 출시 확정]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20263/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이슨의 공기정화 헤드폰 '다이슨 존']]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20261#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20261#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20261/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터, Oracle Air 외장 SSD 인클로저 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20260#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20260#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20260/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 일루전 아일랜드 상세 내용 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20259#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20259#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20259/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
