@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 13:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 예사롭지 않은 손전등 Wuben X3.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20277#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20277#</guid>
+            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20277/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 파티 스피커 SRS-XV800 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20274#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20268/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이거어때] 광촉매 필터가 탑재된 공기 청정기 Eteria]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20267#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20267#</guid>
-            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20267/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
