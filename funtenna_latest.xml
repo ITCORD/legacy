@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 13:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 20:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랜드로버, 레인지로버 SV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20306#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20306#</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20306/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카시오, 기묘한 이야기 A120 모델 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20305#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20305#</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, HAMMERHEAD PRO HYPERSPEED 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20304#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20304#</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] USB만 한 휴대용 SSD? UltraDisk Mini.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20309#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20309#</guid>
             <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20309/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BMW, 5시리즈 풀체인지 전기 라인업 공개]]></title>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20301#</guid>
             <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20301/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 공전하는 공중부양 태양계.]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20308/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, PRO X 2 LIGHTSPEED 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20298#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20298#</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20298/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 모습으로 변신하는 모바일 스트랩, Morf]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20297#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20297#</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20297/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이카, Q3 카메라 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20296#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20296#</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
