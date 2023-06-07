@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 13:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 20:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG, 스탠바이미 Go 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20318#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20318#</guid>
+            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20318/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STATE BICYCLE CO. X 비틀즈, 4130 로드 바이크 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20317#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20317#</guid>
+            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국닌텐도, 피크민 4 공식 프롤로그 트레일러 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20316#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20316#</guid>
+            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 12in1 멀티 허브 옴니 케이스2 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20314#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20311#</guid>
             <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20311/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜드로버, 레인지로버 SV 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20306/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카시오, 기묘한 이야기 A120 모델 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20305#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20305#</guid>
-            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20305/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, HAMMERHEAD PRO HYPERSPEED 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20304#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20304#</guid>
-            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20304/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] USB만 한 휴대용 SSD? UltraDisk Mini. (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20309#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20309#</guid>
-            <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20309/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
