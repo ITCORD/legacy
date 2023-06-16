@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 13:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 20:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20347#</guid>
             <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20347/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 에어팟 호환 충전 넥밴드 AirCord (펀샵 ─ 펀테나 ─ 최신)]]></title>
