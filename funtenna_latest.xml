@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 20:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 07:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 세기말 감성의 무선 충전 보조 배터리 Wizman Green Powerbank.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20372#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20372#</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20372/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[bauhutte의 게이밍 소파 디럭스]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20371#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20370#</guid>
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20370/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼마리오 RPG 리메이크 공개]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20368#</guid>
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20368/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 심비오트 스피커 Van der Waals.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20365/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 미니 디스플레이 Nextus Spacepod.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20363#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20363#</guid>
-            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20363/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
