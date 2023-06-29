@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 20:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 13:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[해외펀딩] 양면 무선 충전 보조 배터리 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <title><![CDATA[[해외펀딩] 세계에서 가장 얇은 프로젝터 Yaber Pico T1 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20386#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20386#</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외펀딩] 양면 무선 충전 보조 배터리 allroundo Pro. (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20385#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20385#</guid>
             <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20378/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, 신형 M2 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20377#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20377#</guid>
-            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20377/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
