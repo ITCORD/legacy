@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 20:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 07:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 타지도, 젖지도 않는 수첩과 볼펜 Ascent]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20395#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20395#</guid>
+            <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사테치, 썬더볼트 4 멀티미디어 프로 독 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20394#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20394#</guid>
             <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20394/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카시오, 최신 지샥 머드맨 공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20388/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 세계에서 가장 얇은 프로젝터 Yaber Pico T1]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20386#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20386#</guid>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20386/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
