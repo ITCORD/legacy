@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 20:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 엄~청 작은 Tiny TV (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20416#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20416#</guid>
+            <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20416/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8BitDo, NEOGEO 무선 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20415#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20415#</guid>
             <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20415/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키, 에어 조던 1 로우 '까치' 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20414#</guid>
             <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20414/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기아, 더 뉴 모닝 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20408/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 멀티 터치패드 CheerTok. (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20411#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20411#</guid>
-            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
