@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 07:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 13:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 맥세이프 노트&펜 Side Note.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20429#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20429#</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20429/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BMW의 두번째 전기 오토바이, CE 02]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20427#</link>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20424#</guid>
             <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20424/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머리가 작아보이는 스트리머스 체어, G-210]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20421/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 마그네틱으로 척, Magnito 리모컨 마우스.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20420#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20420#</guid>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20420/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
