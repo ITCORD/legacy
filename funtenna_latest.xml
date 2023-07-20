@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 07:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 13:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20444/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤츠, GLC43 AMG 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20447#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20447#</guid>
+            <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20447/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 290W 무선 충전 보조 배터리 BOLD 2]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20441/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기가바이트, AORUS M6 무선 게이밍 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20440#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20440#</guid>
-            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20440/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
