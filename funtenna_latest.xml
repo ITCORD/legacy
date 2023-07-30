@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 13:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 20:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOMAD, ChargeKey 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20474#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20474#</guid>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20474/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건담베이스 20주년 기념, 한국 한정 건프라 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20473#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20473#</guid>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20473/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REDMAGIC, Cyberbuds DAO 무선 이어폰 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20472#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20472#</guid>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 일체형 듀얼 모니터 Lepow DualViews]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20471#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20467/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크론, Crucial X9 Pro,X10 Pro 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20466#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20466#</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20466/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIAIAI, TMA-2 DJ XE 헤드폰 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20465#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20465#</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20465/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 바람 나오는 손목 받침대 X-Turbo.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20464#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20464#</guid>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20464/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
