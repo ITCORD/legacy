@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 13:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 20:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WORK LOOUDER, Nomad [E] 키보드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20494#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20494#</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hardgraft, 콘텐츠 케이블 케이스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20493#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20493#</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20493/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이스티파이, 스파이더맨 에어팟 맥스 케이스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20492#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20492#</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 안경 형태의 모션 컨트롤러 Mocap X.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20491#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20490#</guid>
             <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20490/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아우디, SQ8 e-tron 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20487/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베어브릭 스피커, 베어브릭 오디오 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20486#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20486#</guid>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20486/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Svalt, 맥북 프로용 방열판 냉각 독 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20485#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20485#</guid>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20485/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GLORIOUS, 클리키 스위치 RAPTOR 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20484#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20484#</guid>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
