@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 13:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 20:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Epomaker, TH80-X 무선 기계식키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20527#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20527#</guid>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Technics, 무선 이어버드 EAH-AZ40M2 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20526#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20526#</guid>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20526/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사테치, 듀얼 독 스탠드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20525#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20525#</guid>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 싸우자 탈모야! niostem]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20524#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20519/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대, 싼타페 XRT 콘셉트 SUV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20518#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20518#</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20518/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo, PS1과 PS2를 위한 레트로 리시버 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20517#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20517#</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20517/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 모기 쫓는 손전등 EVO REPEL.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20516#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20516#</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20516/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
