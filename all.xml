@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 13:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 20:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이수스, Vivobook S 15 OLED 베이프 에디션 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20533#</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nacon, RIG 600 Pro 게이밍 헤드셋 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20529#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20529#</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20529/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 프리스타일 프로젝터 2세대 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20528#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20528#</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20528/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Epomaker, TH80-X 무선 기계식키보드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20527#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20526#</guid>
             <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20526/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사테치, 듀얼 독 스탠드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20522/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo, 마이크로 블루투스 게임 패드 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20521#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20521#</guid>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20521/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 콩코드 여객기 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20520#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20520#</guid>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20520/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터틀비치, 아이폰용 아톰 모바일 게임 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20519#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20519#</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20519/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
