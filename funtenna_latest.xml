@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 20:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 07:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20478#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
+            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외펀딩] 접이식 무선 마우스 myAir.0]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20563#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20563#</guid>
+            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ErgoAV, ErgoFx 스탠딩 데스크 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20562#</link>
@@ -45,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20557#</guid>
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20557/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필립스, 퀀텀닷 OLED패널의 게이밍모니터 출시]]></title>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20556#</guid>
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20556/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터, 레이싱 게이밍 체어 Dyn X 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20554#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20554#</guid>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20554/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, X5 롱휠베이스 버전 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20553#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20553#</guid>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20553/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
