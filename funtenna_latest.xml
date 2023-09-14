@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 13:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 20:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소노스, 무선 스피커 무브2 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20592#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20592#</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20592/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이케아, 링 LED 조명 스텡크렝 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20591#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20591#</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20591/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤츠, 콘셉트 CLA 클래스 EV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20590#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20590#</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20590/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, 아이폰 15 프로, 프로맥스 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20589#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20585/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고프로, Hero 12 Black 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20584#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20584#</guid>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20584/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 매킨토시 형태의 멀티 허브 RayCue 128K.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20583#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20583#</guid>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20583/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JAKEMY 200 in 1, 스페셜 전기 드라이버 세트]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20582#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20582#</guid>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20582/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
