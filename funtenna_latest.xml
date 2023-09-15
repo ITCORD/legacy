@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 07:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 13:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 키보드 달린 UMPC, GPD WIN Mini 7.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20594#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20594#</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20594/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소노스, 무선 스피커 무브2 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20592#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20586/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅엔올룹슨, Beolab 8 스피커 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20585#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20585#</guid>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20585/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
