@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 13:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 20:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UE, 블루투스 스피커 Epicboom 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20597#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20597#</guid>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20597/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nomad의 Base One Max 3-in-1 충전기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20596#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20596#</guid>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20596/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, Q8 부분변경 모델 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20595#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20595#</guid>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20595/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드 달린 UMPC, GPD WIN Mini 7.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20594#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20592#</guid>
             <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20592/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아, 링 LED 조명 스텡크렝 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20589/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 썬더볼트 5 규격 발표]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20588#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20588#</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20588/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니, 레거시 애니메이션 무비 컬렉션 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20587#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20587#</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20587/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 맥도날드와 테슬라의 만남, 사이버스푼]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20586#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20586#</guid>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20586/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
