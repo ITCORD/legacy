@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 13:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 20:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AOC, 휴대용 게이밍 모니터 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20614#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20614#</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20614/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사테치, 아이폰 15용 맥세이프 호환 지갑 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20613#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20613#</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20613/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baseus, Free2Draw 케이블 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20606#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20606#</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20606/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드 대용 왼손 컨트롤러 Hex Evo.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20618#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20612/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드비알레, 제미니 2 무선이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20607#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20607#</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20607/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, Viper V3 Hyperspeed 게이밍 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20605#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20605#</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20605/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 눈에 넣어도 안 아픈 모니터 E-ink 모니터 Paperlike Color.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20608#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20608#</guid>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20608/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
