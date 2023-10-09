@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 13:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 20:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이카, 즉석카메라 소포트 2 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20637#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20637#</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티볼리 오디오, SongBook 라인업 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20636#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20636#</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포르쉐, 신형 카이엔 S E-하이브리드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20635#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20635#</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20635/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 세발자전거의 진화 VOOK E-trike]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20634#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20629#</guid>
             <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20629/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] MES Retro Mini 게임기]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20633/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nacon, 레볼루션 5 프로 게임 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20628#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20628#</guid>
-            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20628/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바워스앤윌킨스, Px7 S2e 헤드폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20627#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20627#</guid>
-            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20627/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어 포스 1 "윈터라이즈드" 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20615#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20615#</guid>
-            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20615/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
