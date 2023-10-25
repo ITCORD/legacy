@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 13:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 20:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아디다스, 새로운 심슨 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20680#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20680#</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20680/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오징어게임, 리얼리티 쇼로 공개 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20679#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20679#</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20679/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2륜 SUV? 고고로 크로스오버]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20678#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20678#</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20678/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 시계이자 커프링크스, Creamy Patina.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20677#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20677#</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20677/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브 페블 V3 아티산 에디션 출시]]></title>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20675#</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20675/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 애니메이션 플루토 목요일 공개]]></title>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20674#</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20674/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디파이어, Neobuds Pro 2 출시]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20673#</guid>
             <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마하, ZG 01 니어오토마타 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20672#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20672#</guid>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤랜드, SP-404 MKII 스톤스 스로우 한정판 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20671#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20671#</guid>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20671/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩]  픽셀 디스플레이 Tidbyt Gen 2]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20670#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20670#</guid>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20673/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
