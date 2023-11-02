@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 13:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 20:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벨킨, BOOST↑CHARGE™ PRO 2-in-1 무선 충전독 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20700#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20700#</guid>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, 고어텍스 포럼 로우 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20699#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20699#</guid>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트모스 핑크 X 아디다스, 가젤 볼드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20698#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20693/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BioLite, AlpenGlow Mini 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20692#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20692#</guid>
-            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20692/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이티브 유니온 X 메종키츠네, 올오버 액세서리 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20691#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20691#</guid>
-            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20691/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마란츠, 네트워크 CD 플레이어 CD50n 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20690#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20690#</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20690/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
