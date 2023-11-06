@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 13:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 20:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20713#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20713#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20713/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타이맥스, Expedition North Field Chrono 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20712#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20712#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20712/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, TT 로드스터 파이널 에디션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20711#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20711#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20711/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아스텔앤컨, KANN ULTRA 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20705#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨킨, BOOST↑CHARGE™ PRO 2-in-1 무선 충전독 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20700#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20700#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20700/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, 고어텍스 포럼 로우 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20699#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20699#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20699/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트모스 핑크 X 아디다스, 가젤 볼드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20698#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20698#</guid>
-            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20698/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
