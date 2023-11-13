@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 20:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 07:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 살아 숨 쉬는 포옹 인형 fufuly]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20729#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20729#</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밸드, 스팀 덱 OLED 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20728#</link>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20726#</guid>
             <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20726/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 작동 가능한 NASA 화성 탐사차 퍼서비어런스 DIY 키트]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20718#</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20718/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 어벤져스 타워 출시예정]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20725#</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20725/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINISFORUM, MKB i83 무선 키보드 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20724#</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20724/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파나소닉, 스타워즈 스톰트루퍼 에디션 ARC3 출시]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20723#</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HyperX, Clutch Gladiate RGB 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20722#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20722#</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20723/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
