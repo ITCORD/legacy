@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 13:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 20:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼보, EM90 전기 자동차 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20745#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20745#</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20745/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3Dconnexion, 신형 스페이스마우스 프로 무선 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20744#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20744#</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고디마, 골든 에디션 제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20743#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20743#</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] Chat GPT가 들어있는 종이 노트 XNote]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20739#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20742#</guid>
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20742/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야마하, HS3/HS4 모니터 스피커 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20738/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, K70 CORE SE 게이밍 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20737#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
-            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20736#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20736#</guid>
-            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20736/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lofree, Block 무선 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20735#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20735#</guid>
-            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
