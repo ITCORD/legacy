@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 20:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 07:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,15 +21,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20744#</guid>
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20744/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고디마, 골든 에디션 제품 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <title><![CDATA[고디바, 골든 에디션 제품 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20743#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20743#</guid>
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20743/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] Chat GPT가 들어있는 종이 노트 XNote (펀샵 ─ 펀테나 ─ 최신)]]></title>
