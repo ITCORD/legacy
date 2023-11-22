@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 13:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 20:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FilO, 하이파이 오디오 내장 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20755#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20755#</guid>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20755/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노스페이스 X 언더커버, SOUKUU 글렌클리프 부츠]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20754#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20754#</guid>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20754/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PNY, CS3150 M.2 NVMe PCIe Gen5 x4 SSD 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20753#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20753#</guid>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20753/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드 달린 UMPC 아야네오 슬라이드]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20746#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20749/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xbox, 웡카 관련 경품 이벤트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20748#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20748#</guid>
-            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20748/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머라이어 캐리 바비 인형 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20747#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20747#</guid>
-            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20747/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼보, EM90 전기 자동차 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20745#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20745#</guid>
-            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20745/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
