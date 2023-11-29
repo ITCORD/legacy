@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 07:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 13:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 매킨토시 케이스 디자인의 AYANEO Retro Mini PC]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20775#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20775#</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20775/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크록스, 주술회전 컬렉션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20767#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20760/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 X 사카이, 마그마스케이프 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20759#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20759#</guid>
-            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
