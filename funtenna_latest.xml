@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 13:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 20:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로에베. 다용도 펭귄백 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20771#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20771#</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20771/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COUGAR, 게이밍 체어 Hotrod 라인 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20770#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20770#</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20770/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HW일렉트로, 소형 EV 퍼즐 콘셉트 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20769#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20769#</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20769/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 매킨토시 케이스 디자인의 AYANEO Retro Mini PC]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20775#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20767#</guid>
             <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20767/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AQIRYS, Alnair 노이즈 캔슬링 게이밍 헤드셋 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20764/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다기능 올인원 헬멧, Calyx]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20763#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20763#</guid>
-            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20763/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나소닉, 터프북 55 MK3 세미 러기드 노트북 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20762#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20762#</guid>
-            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리, KC 200 MX 키보드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20760#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20760#</guid>
-            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20760/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
