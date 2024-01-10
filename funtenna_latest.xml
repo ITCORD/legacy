@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 13:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 20:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사테치, 무선 기계식 키보드 SM1 슬림 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20869#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20869#</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20869/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭스바겐, 8세대 골프 GTI 페이스리프트 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20868#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20868#</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20868/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mophie, 아이폰 15시리즈용 주스 팩 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20867#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20867#</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20867/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Xbox 시리즈 S 2 슬라이스 토스터]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20866#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20861/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터, Sneaker X Bounce PC 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20860#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20860#</guid>
-            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20860/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤리디자인, 스타게이저 S1000S-R 전자시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20859#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20859#</guid>
-            <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20859/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CLICKS, 아이폰 물리 키보드 케이스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20858#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20858#</guid>
-            <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20858/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
