@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 13:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 20:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독립형 AI 하드웨어, rabbit r1 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20879#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20879#</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, ROG Falchion RX 무선 게이밍 키보드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20878#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20878#</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONANOFF, Fokus+ 무선 하이브리드 ANC 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20877#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20877#</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 쿨링팬이 내장된 ORICO 외장 SSD 인클로저]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20876#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20872/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 11포트 USB-C 독 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20871#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20871#</guid>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20871/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALOGIC, 파워뱅크 내장 3 in 1 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20870#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20870#</guid>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵 판매예정] 사테치, 무선 기계식 키보드 SM1 슬림 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20869#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20869#</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20869/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
