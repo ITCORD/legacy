@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 13:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 20:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마샬, 앰버튼 2 파타에디션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20981#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20981#</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20981/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AZIO, RC 프레스티지 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20980#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20980#</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20980/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[tsticks, GRS 슈퍼 조이스틱 이카리 워리어스 한정판 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20979#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20979#</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20979/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온몸을 활용하는 VR 머신, Virtuix Omni One]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20978#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20974/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YEYIAN, SHIFT 3-in-1 RGB 게이밍 마우스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20973#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20973#</guid>
-            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20973/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharkoon, SKILLER SGH50 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20972#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20972#</guid>
-            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20972/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, X100VI 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20971#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20971#</guid>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20971/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
