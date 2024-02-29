@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 20:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 07:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 접이식 3in1 무선 충전기 INVZI MagFree Transform.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20982#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20982#</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20982/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마샬, 앰버튼 2 파타에디션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20981#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20975/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터, 마스터키 MK770 키보드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20974#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20974#</guid>
-            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20974/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
