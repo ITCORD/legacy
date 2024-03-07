@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 13:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 20:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로지텍, 웹캠 MX 브리오 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20999#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20999#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CMF,  Buds와 Neckband Pro 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20998#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20998#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈어, 무브 마이크 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20996#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20996#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20997#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20993#</guid>
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
@@ -45,30 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
             <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이어플라이, 여행용 미니벨로 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20991#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20991#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20991/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호카, 호파라 2 하이킹 샌들 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20990#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20990#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] UVC 살균 침구류 청소 로봇 X1. (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20987#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20987#</guid>
-            <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
