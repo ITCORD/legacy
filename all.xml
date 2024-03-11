@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 13:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 20:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메제 오디오, 리릭 2세대 발표 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21007#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21007#</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이카, SL3 풀프레임 미러리스 카메라 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21005#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21005#</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NYXI, 워리어 게임 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 최신)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21004#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21004#</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 배트맨: 애니메이션 시리즈 고담 시티™ 출시예정 (펀샵 ─ 펀테나 ─ 최신)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21003#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20997/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, 웹캠 MX 브리오 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20999#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20999#</guid>
-            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CMF,  Buds와 Neckband Pro 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20998#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20998#</guid>
-            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈어, 무브 마이크 출시 (펀샵 ─ 펀테나 ─ 최신)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20996#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20996#</guid>
-            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
