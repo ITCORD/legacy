@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 13:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 20:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스치프, 2X4 부츠 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21028#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21028#</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21028/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 새로운 배터리팩 2종 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21027#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21027#</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21027/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PNY, RP60 휴대용 SSD 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21026#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21026#</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체리, XTRFY K5V2 게이밍 키보드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21025#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21024#</guid>
             <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21024/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[택시 라이프, 시티 드라이빙 시뮬레이터]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21022/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DSPTCH, 콘솔 슬링백 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21021#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21021#</guid>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21021/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, 인스탁스 미니 99 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21020#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21020#</guid>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21020/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOZA 레이싱, TSW 트럭 휠 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21017#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21017#</guid>
-            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
