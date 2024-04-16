@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 13:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 20:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠하이저, 모멘텀 스포츠 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21096#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21096#</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로지텍, G PRO X 60 LIGHTSPEED 게이밍 키보드 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21095#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21095#</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메르세데스 벤츠, EQS 연식변경 모델 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21094#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21094#</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINISFORUM, 휴대용 모니터 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21093#</link>
@@ -32,7 +56,7 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소니, ULT WEAR 무선 헤드폰 출시]]></title>
+            <title><![CDATA[[펀샵판매중] 소니, ULT WEAR 무선 헤드폰 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21090#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21090#</guid>
             <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조커: 폴리 아 되, 1차 예고편 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21088#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21088#</guid>
-            <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 초소형 전동 드라이버 SES NANO.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21087#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21087#</guid>
-            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 삼성 올인원 Pro 일체형 PC 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21085#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21085#</guid>
-            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21085/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
