@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 20:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 07:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이트코어, EDC25 손전등 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21106#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21106#</guid>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21106/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJI, POWER 시리즈 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21105#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21105#</guid>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21105/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing, Ear 무선 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21104#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21104#</guid>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21104/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, PS와 Xbox용 BlackShark V2 Pro 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21103#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21101#</guid>
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21101/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 움직이는 걸작, Helios 키네틱 아트.]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21100/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마샬, 오픈형 무선 이어버드 MINOR IV 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21099#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21099#</guid>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21099/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T-CREATE EXPERT R31 3-in-1 카드 리더기]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21098#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21098#</guid>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21098/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠하이저, 모멘텀 스포츠 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21096#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21096#</guid>
-            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21096/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
