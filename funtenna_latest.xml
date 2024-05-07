@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 20:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 07:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 동물의 숲 시리즈 신작 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21137#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21137#</guid>
+            <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타워즈, 애콜라이트 메인 예고편 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21136#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21136#</guid>
+            <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21136/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 ISPA, 변형 판초 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21135#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21135#</guid>
+            <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21135/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 밀리터리 키보드 DeltaForce 65.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21134#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21130#</guid>
             <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21130/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아틀라스, 메타포:리판타지오 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21128/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPL, 포니터 3 모니터링 헤드폰 앰프 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21127#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21127#</guid>
-            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21127/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보스턴 다이내믹스, 새로운 휴머노이드 로봇 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21126#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21126#</guid>
-            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="6" style="cursor: pointer">미래기술</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21126/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 홀로그램 스피커 Haloasis A1.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21131#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21131#</guid>
-            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21131/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
