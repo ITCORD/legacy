@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 13:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 20:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이티브 유니온, (Re)Classic 파워뱅크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21150#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21150#</guid>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 스피드 챔피언 메르세데스 벤츠 신제품 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21149#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21149#</guid>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페라리, 12Cilindri 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21148#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21148#</guid>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 맥세이프 조명 WUBEN E1.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21151#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21151#</guid>
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21151/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타거스, USB4 트리플 비디오 도킹 스테이션 출시]]></title>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21147#</guid>
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21147/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보스, 사운드링크 맥스 휴대용 스피커 출시]]></title>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21146#</guid>
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21146/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[InWin, POC One 미니 ITX 케이스 출시]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21145#</guid>
             <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21145/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니, 신형 미니 에이스맨 EV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21143#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21143#</guid>
-            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21143/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐일레븐, 테트리스와의 협업 게임기 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21142#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21142#</guid>
-            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="5" style="cursor: pointer">트렌드</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21142/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 작디작은 접이식 티타늄 나이프 The WaspArmor Blade.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21138#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21138#</guid>
-            <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21138/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
