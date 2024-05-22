@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 13:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 20:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴발란스, 새로운 MT580 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21178#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21178#</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘레컴, IST 트랙볼 마우스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21177#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21177#</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21177/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 반지의 제왕: 바랏두르 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21168#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21168#</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21168/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 2in1 충전&외장 저장소 케이블 MAGFLASH.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21175#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21175#</guid>
             <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21175/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테크닉스 X 람보르기니, SL1200 mk7]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21174/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CONO, 휴대용 스마트 램프]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21170#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21170#</guid>
-            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="3" style="cursor: pointer">생활/주방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21170/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아야네오, AM01S 미니 PC 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21169#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21169#</guid>
-            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21169/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anker, Soundcore P30i 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21167#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21167#</guid>
-            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21167/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
