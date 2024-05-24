@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 20:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 07:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 다재다능 멀티툴 Ti EDC Wrench]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21179#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21179#</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="4" style="cursor: pointer">아웃도어/스포츠</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소노스, 에이스 헤드폰 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21182#</link>
@@ -61,14 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21175#</guid>
             <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21175/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테크닉스 X 람보르기니, SL1200 mk7]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21173#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21173#</guid>
-            <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
