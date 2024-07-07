@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 13:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 20:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, C-3PO 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21283#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21283#</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드리프트, 휴대용 DJ 머신 '제로' 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21282#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21282#</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니온조이, 베이스어스 17-in-1 도킹 스테이션]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21281#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21281#</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카시오 X 우노, A168 시계 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21280#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21277/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이티브 유니온, 포켓 케이블 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21276#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21276#</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21276/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랜드로버, 디펜더 옥타 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21275#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21275#</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21275/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 범블비 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21273#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21273#</guid>
-            <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21273/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
