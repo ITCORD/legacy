@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 20:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 07:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CMF, Phone 1 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21286#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21286#</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21286/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이어다이나믹, MMX 300 프로 게이밍 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21285#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21285#</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21285/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산와 서플라이, 무선 멀티 터치패드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21284#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21284#</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21284/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, C-3PO 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21283#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21279#</guid>
             <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, G515 LIGHTSPEED TKL 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21278#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21278#</guid>
-            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21278/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 맥세이프 메모장 거치대 MOFT Snap Flow.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21274#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21274#</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21274/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캡콤, 데드 라이징 디럭스 리마스터 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21277#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21277#</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21279/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
