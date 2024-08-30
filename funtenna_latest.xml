@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 20:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 07:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬, Première Sound Watch 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21405#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21405#</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21405/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 마리오 카트 시리즈 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21404#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21404#</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bravest Studios, 풋 클로그 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21403#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21403#</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21403/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노스페이스, 보레알리스 25주년 기념 백팩 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21402#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21399#</guid>
             <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21399/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[nwm ONE 오픈이어 헤드폰]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21396/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo Lite SE 2.4G 무선 컨트롤러]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21395#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21395#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NACON, Revolution X Unlimited 컨트롤러 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21394#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21394#</guid>
-            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21394/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바워스앤윌킨스, Pi8 무선 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21393#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21393#</guid>
-            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="8" style="cursor: pointer">취미/기타</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21393/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
