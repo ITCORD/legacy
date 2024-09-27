@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 07:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 13:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7대라니 몬소리]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21489#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21489#</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a name="category" data-categoryno="1" style="cursor: pointer">자동차/모터사이클</a>]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21489/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[계급 떼고 요리 붙자]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21490#</link>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="7" style="cursor: pointer">패션/시계/가방</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥퀸을 그리며]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21464#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21464/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, MX 크리에이티브 콘솔 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21486#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21486#</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a name="category" data-categoryno="2" style="cursor: pointer">PC/모바일</a>]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21486/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
